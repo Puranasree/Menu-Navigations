@@ -1,10 +1,8 @@
-
 * {
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
 }
-
 body {
 	display: flex;
 	justify-content: center;
@@ -12,7 +10,6 @@ body {
 	min-height: 100vh;
 	background: #f1f19b;
 }
-
 .navigation {
 	position: relative;
 	width: 400px;
@@ -24,12 +21,10 @@ body {
 	align-items: center;
 	border-radius: 10px;
 }
-
 .navigation ul {
 	width: 350px;
 	display: flex;
 }
-
 
 .navigation ul li {
 	list-style: none;
